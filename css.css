@@ -4,7 +4,7 @@
 	background: #CFD0D0 url("images/five.jpg");
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
-	width: 1500px;
+	width: 1200px;
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 10px;
@@ -13,8 +13,8 @@
 	border-radius: 15px;
 }
  body {
-background: #066 ;
-  font-family: Verdana, Helvetica, Arial, sans-serif;
+	background: #066 ;
+   font-family: Verdana, Helvetica, Arial, sans-serif;
   margin-top: 0px;
   padding: 0px  50px 0px 50px;
   font-size: 150%;
@@ -24,7 +24,6 @@ background: #066 ;
  #header{
 	height: 80px;
 	background: #CFD0D0 ;
-	float: right;
 	margin-top: 10px;
  }
 
